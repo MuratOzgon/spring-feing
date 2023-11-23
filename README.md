@@ -23,7 +23,7 @@ This project is a testament to my journey through the course, where I built a mi
 - **Integration Testing**: Comprehensive testing covering various aspects of Feign clients and load balancing.
 
 ## How to Run
-Provide instructions on how to run your project, including any prerequisites and steps to get it up and running.
+
 
 ## Further Exploration
 I am continuously working on enhancing this project by exploring more advanced features and keeping up with the latest trends in microservice architecture.
